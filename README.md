@@ -1,0 +1,1 @@
+# Bitwig-Studio-No-Trial
